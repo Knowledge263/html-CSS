@@ -15,3 +15,16 @@
           font-style: italic;
           padding: auto;
       }
+      
+      #title {
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          text-transform: uppercase;
+      }
+      
+      .ways {
+          color: crimson;
+      }
+      
+      .ul {
+          font-family: cursive;
+      }
