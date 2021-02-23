@@ -4,6 +4,7 @@
       
       h1 {
           font-family: 'Courier New', Courier, monospace;
+          text-align: center;
       }
       
       myDiv {
@@ -27,4 +28,8 @@
       
       .ul {
           font-family: cursive;
+      }
+      
+      fig {
+          align-items: center;
       }
